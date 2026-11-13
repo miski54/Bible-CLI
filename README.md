@@ -16,7 +16,7 @@ If you put a books name that has one or more spaces, make sure to put it in quot
 
 # Options
 These are the available options for bible-cli:
-```text
+```
 -h, --help                           Shows this help message
 -v, --version                        Shows the version of this program
 -p, --passage                        Set the Bible passage you want to get
@@ -37,6 +37,9 @@ With book names without spaces, yes. With book names with spaces, no. It's good 
 No, the chapter and verse/verses have to be together or the program won't work.
 ## Q: I forgot a command/commands. What should i do?
 Run `bible -h`, `bible --help`, `bible-cli -h` or `bible-cli --help` to view the options.
+
+# Contributing
+For now, there are no contributors needed.
 
 # Final message
 God bless you!
