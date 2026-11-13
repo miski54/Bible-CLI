@@ -1,8 +1,8 @@
-# Bible-cli
+# Bible-CLI
 Bible-cli is a CLI program for reading the Bible in your terminal. It's written in C++. Currently, it supports only Windows, and there's only the WEBC version of the Bible.
 
 # Instalation
-To install bible-cli, download the [bible-cli-installer](//////url). When installed, type in your terminal commands for bible-cli.
+To install Bible-CLI, download the [bible-cli-installer](//////url). When installed, type in your terminal commands for Bible-CLI.
 
 # Basic usage
 To use the program, first type either `bible` or `bible-cli` and then the options and arguments.
@@ -15,7 +15,7 @@ References identify the book, chapter, and specific verse or range of verses.
 If you put a book's name that has one or more spaces, make sure to put it in quotation marks (e.g., "2 Maccabees").
 
 # Options
-These are the available options for Bible-cli:
+These are the available options for Bible-CLI:
 ```
 -h, --help                           Shows this help message
 -v, --version                        Shows the version of this program
@@ -26,7 +26,7 @@ These are the available options for Bible-cli:
 ```
 
 # Changing Bible Versions
-Currently, there's only one version of the Bible that comes default with installing bible-cli. In the future, Bible-cli will have a wide range of Bible versions to choose from.
+Currently, there's only one version of the Bible that comes default with installing bible-cli. In the future, Bible-CLI will have a wide range of Bible versions to choose from.
 
 # FAQ
 ## Q: Can I write the whole passage in one string?
