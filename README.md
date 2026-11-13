@@ -18,10 +18,10 @@ If you put a book's name that has one or more spaces, make sure to put it in quo
 These are the available options for Bible-CLI:
 ```
 -h, --help                           Shows this help message
--v, --version                        Shows the version of this program
--p, --passage                        Set the Bible passage you want to get
--nl, --new-line                      Makes every verse be in their own line
--pnl, --passage-new-line             Makes the Bible passage be in their own line
+-v, --version                        Shows the version of Bible-CLI
+-p, --passage                        Set the Bible passage you want to read
+-nl, --new-line                      Makes every verse be outputed in a new line
+-pnl, --passage-new-line             Makes the Bible passage be outputed in a new line
 -q, --quote                          Adds quotation makrs at the begining and end of the output (doesn't include the passage)
 ```
 
