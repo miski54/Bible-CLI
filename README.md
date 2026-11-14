@@ -1,7 +1,7 @@
 # Bible-CLI
 Bible-cli is a CLI program for reading the Bible in your terminal. It's written in C++. Currently, it supports only Windows, and there's only the WEBC version of the Bible.
 
-# Instalation
+# Installation
 To install Bible-CLI, download the [bible-cli-installer](//////url). When installed, type in your terminal commands for Bible-CLI.
 
 # Basic usage
