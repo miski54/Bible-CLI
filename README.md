@@ -23,6 +23,8 @@ These are the available options for Bible-CLI:
 -nl, --new-line                      Makes every verse be outputed in a new line
 -pnl, --passage-new-line             Makes the Bible passage be outputed in a new line
 -q, --quote                          Adds quotation makrs at the begining and end of the output (doesn't include the passage)
+-b, --books                          Shows all the books the current version (WEBC) of the bible contains
+-r, --random                         Outputs a random passage
 ```
 
 # Changing Bible Versions
