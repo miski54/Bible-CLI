@@ -46,5 +46,8 @@ For now, there are no contributors needed.
 # Uninstalling
 To uninstall Bible-CLI, open your Settings app and go to "Applications", then search for Bible-CLI and uninstall it. 
 
+# Important note
+When I got the idea for this project, I didn't check if something similar already existed. The name "Bible-CLI" will probably not be changed. This program is original; its ideas were not inspired by any other similar programs. The ideas for this project all came from my head.
+
 # Final message
 God bless you!
