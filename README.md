@@ -43,5 +43,8 @@ Run `bible -h`, `bible --help`, `bible-cli -h` or `bible-cli --help` to view the
 # Contributing
 For now, there are no contributors needed.
 
+# Uninstalling
+To uninstall Bible-CLI, open your Settings app and go to applications, then search for Bible-CLI and uninstall it. 
+
 # Final message
 God bless you!
